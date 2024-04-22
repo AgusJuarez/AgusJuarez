@@ -8,6 +8,8 @@
 University student committed to obtaining significant work experience to complement his academic training in Computer Science. I have a positive attitude, I am responsible and I have teamwork skills. I am always looking for new knowledge to improve in my field of study.
 
 -------------------
+## Currently
+Currently learning some Python by self. In the future, i would like to work in the data scientist field. 🐍
 
 ## Contact
  ![Discord](https://img.shields.io/badge/sternius%231243-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google](https://img.shields.io/badge/agushjuarez@gmail.com-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
