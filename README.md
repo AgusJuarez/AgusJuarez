@@ -5,18 +5,14 @@
 <div align="center">
 
 ## About
-University student committed to obtaining significant work experience to complement his academic training in Computer Science. I have a positive attitude, I am responsible and I have teamwork skills. I am always looking for new knowledge to improve in my field of study.
+University student committed to obtaining significant work experience to complement his academic training in Computer Science. I have a positive attitude, I am responsible and I have teamwork skills. I am always looking for new knowledge to improve in my field of study. 
+I'm play voley (Yes, i'm a voley player 🏐) and really like listening to music 🎧
 
 -------------------
 ## Currently
 Currently learning some Python by self. In the future, i would like to work in the data scientist field. 🐍
 
-## Contact
- ![Discord](https://img.shields.io/badge/sternius%231243-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google](https://img.shields.io/badge/agushjuarez@gmail.com-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
-<a href="https://linkedin.com/in/agustin-juarez99" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Agustin Juarez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
 
 
 
@@ -29,6 +25,9 @@ Currently learning some Python by self. In the future, i would like to work in t
 
   
 -------------------
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
   
 ![AgusJuarez github stats](https://github-readme-stats.vercel.app/api?username=AgusJuarez&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
@@ -36,7 +35,30 @@ Currently learning some Python by self. In the future, i would like to work in t
 
  <div>
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+ ![Discord](https://img.shields.io/badge/sternius%231243-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) ![Google](https://img.shields.io/badge/agushjuarez@gmail.com-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+<a href="https://linkedin.com/in/agustin-juarez99" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Agustin Juarez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="mailto:agushjuarez@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Agustin Juarez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
 -----
 Credits: [AgusJuarez](https://github.com/AgusJuarez)
 
 Last Edited on: 21/04/2024
+
+<br>
+<br>
+
+<div align='center'>
+
+# <b><i>One of these days, your heart will stop and play its' final beat</i></b>
+# <b><i>But it's alright...</i></b>
+# <h5><b><i>These Days - Foo Fighters</i></b></h5>
+
+</div>
