@@ -10,7 +10,7 @@ I'm play voley (Yes, i'm a voley player 🏐) and really like listening to music
 
 -------------------
 ## Currently
-Currently learning some Python by self. In the future, i would like to work in the data scientist field. 🐍
+Currently learning some Python and Security of the Information by self. 🐍
 
 
 
@@ -25,7 +25,7 @@ Currently learning some Python by self. In the future, i would like to work in t
 
   
 -------------------
-
+<!--
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
   
@@ -34,6 +34,7 @@ Currently learning some Python by self. In the future, i would like to work in t
 ![AgusJuarez github streak](https://github-readme-streak-stats.herokuapp.com/?user=AgusJuarez&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
+ -->
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
