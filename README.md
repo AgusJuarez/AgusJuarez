@@ -6,14 +6,6 @@
 
 ## About
 University student committed to obtaining significant work experience to complement his academic training in Computer Science. I have a positive attitude, I am responsible and I have teamwork skills. I am always looking for new knowledge to improve in my field of study. 
-I'm play voley (Yes, i'm a voley player 🏐) and really like listening to music 🎧
-
--------------------
-## Currently
-Currently learning some Python and Security of the Information by self. 🐍
-
-
-
 
 
 -------------------
